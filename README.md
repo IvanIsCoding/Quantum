@@ -2,15 +2,15 @@
 
 This repository contains a collection of quantum circuits and quantum algorithms in Python using [Qiskit](https://www.qiskit.org/).
 
- The codes are paired with dicussions on my [blogs on quantum computing](https://ivaniscoding.github.io/tags/quantum/). 
+ The codes are paired with dicussions on my [blogs about quantum computing](https://ivaniscoding.github.io/tags/quantum/). 
 
 ## List of Codes
 
 ### Basic Quantum Computing
-* **[The Qubit](./Basic_Quantum/Qubit.ipynb)**
+* **[The Qubit](./Basic_Quantum/Qubit.ipynb)** 
 * **[Quantum Gates](./Basic_Quantum/Quantum-Gates.ipynb)**
 * **[Quantum Measurements](./Basic_Quantum/Measurements.ipynb)**
-* **[Multiple Qubits](./Basic_Quantum/Uncomputation.ipynb)**
+* **[Multiple Qubits](./Basic_Quantum/Multiple-Qubits.ipynb)**
 * **[Uncomputation](./Basic_Quantum/Uncomputation.ipynb)**
 
 ### Quantum Communication
@@ -22,3 +22,4 @@ This repository contains a collection of quantum circuits and quantum algorithms
 * **[Deutsch's Algorithm](./Algorithms/Deutsch.ipynb)**
 * **[Deutsch-Jozsa's Algorithm](./Algorithms/Deutsch-Jozsa.ipynb)**
 * **[Bernstein-Vazirani's Algorithm](./Algorithms/Bernstein-Vazirani.ipynb)**
+* **[Grover's Algorithm](./Algorithms/Grover.ipynb)**
