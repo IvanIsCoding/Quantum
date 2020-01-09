@@ -1,6 +1,6 @@
 name: QuantumNotebooks
 dependencies:
-- python>=3.7
+- python=3.7
 - pip>=19
 - parso>=0.5.2
 - matplotlib
