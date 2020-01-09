@@ -1,0 +1,10 @@
+name: QuantumNotebooks
+dependencies:
+- python>=3.7
+- pip>=19
+- matplotlib
+- notebook
+- ipywidgets
+- rise
+- pip:
+  - qiskit
