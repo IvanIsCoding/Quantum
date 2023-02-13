@@ -1,7 +1,7 @@
 name: QuantumNotebooks
 dependencies:
 - python
-- pip=20
+- pip
 - matplotlib
 - notebook
 - ipywidgets
